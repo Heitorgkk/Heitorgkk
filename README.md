@@ -1,32 +1,25 @@
 <div align="center">
   
-
-<!-- NOME EM BANNER NEON -->
 <p align="center">
   <img src="https://img.shields.io/badge/%20Heitor%20Klimkowski%20-0d0221?style=for-the-badge&logo=github&logoColor=white&color=8a00d4" />
 </p>
-
-<!-- DESCRIÇÃO EM NEON -->
 <p align="center">
   <img src="https://img.shields.io/badge/An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas-3d0066?style=for-the-badge&logo=starship&logoColor=white" />
 </p>
 
-<!-- TYPING ANIMATION -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=8A00D4&center=true&vCenter=true&width=500&lines=Java+%7C+Python+%7C+MySQL+%7C+Git" />
 </p>
 
-<!-- SEPARADOR NEON -->
+<!-- separador ta dando problema-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlfredEsteban/Dividers/main/gifs/purple-neon.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/Heitorgkk/Heitorgkk/main/assets/neon_line.gif" width="100%">
 </p>
 
 
 
 
-
-
-<!-- GIF (FÁCIL DE TROCAR) -->
 <p align="center">
   <img 
     src="https://c.tenor.com/g8hCSaquj_MAAAAd/tenor.gif"
