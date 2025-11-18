@@ -14,7 +14,7 @@
 
 <!-- separador ta dando problema-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Heitorgkk/Heitorgkk/main/assets/neon_line.gif" width="100%">
+  <img src="https://cdn.jsdelivr.net/gh/Heitorgkk/Heitorgkk/assets/neon_line.gif" width="100%">
 </p>
 
 
