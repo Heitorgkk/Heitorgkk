@@ -15,7 +15,7 @@
 
 <div>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitorgkk&layout=compact&theme=tokyonight"/>
   </p>
 </div>
 <div id="foot">
