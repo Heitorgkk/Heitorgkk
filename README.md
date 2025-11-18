@@ -7,7 +7,7 @@
     Análise e Desenvolvimento de Sistemas | 
   </p>
   <p>
-    <img src="https://tenor.com/pt-PT/view/edsonstorm-kick-buttowski-gif-15419667304074618080">
+    <img src="https://c.tenor.com/pt-PT/view/edsonstorm-kick-buttowski-gif-15419667304074618080.gif" width="300" alt="Kick Buttowski">
   </p>
 </div>
 
@@ -18,9 +18,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitorgkk&layout=compact&theme=tokyonight"/>
   </p>
 </div>
-<div id="foot">
 
-  
+<div id="foot">  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Heitorgkk/Heitorgkk/blob/output/github-contribution-grid-snake-dark.svg">
     <img alt="github contribution grid snake animation" src="https://github.com/Heitorgkk/Heitorgkk/blob/output/github-contribution-grid-snake.svg">
