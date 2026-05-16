@@ -1,7 +1,16 @@
+<div align="center">
 
-### $ whoami
+</div>
+
 ```bash
+$ whoami
 Heitor Grabowski Klimkowski
+$ pwd
+/brazil/sc/jaragua-do-sul/ctw
+```
+
+```diff
+
 ```
 
 
