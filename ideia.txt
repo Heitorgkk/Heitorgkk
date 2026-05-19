@@ -1,0 +1,15 @@
+HEADER
+↓
+typing animation
+↓
+intro terminal
+↓
+stack
+↓
+stats
+↓
+activity graph
+↓
+projetos
+↓
+footer
