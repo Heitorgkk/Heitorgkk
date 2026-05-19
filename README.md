@@ -18,9 +18,7 @@ $ pwd
 
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&color=0B2E20) ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&color=0B2E20) ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&color=0B2E20) ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&color=0B2E20) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&color=0B2E20)
 
-
-<img src="https://komarev.com/ghpvc/?username=Heitorgkk&label=PROFILE+VIEWS&color=0B2E20&style=for-the-badge">
-
+<img src="https://vbr.nathanchung.dev/badge?page_id=Heitorgkk&style=for-the-badge&color=0B2E20&lcolor=efefef&text=PROFILE%20VIEWS">
 
 </div>
 
